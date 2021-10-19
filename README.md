@@ -1,4 +1,4 @@
-# Efficient Network Reliability Estimation for Client-Server Model
+# Efficient Network Reliability Evaluation for Client-Server Model
 
 This repository includes the codes to reproduce the results of experiments in the paper "Efficient Network Reliability Evaluation for Client-Server Model" published in the proceedings of [2021 IEEE Global Communications Conference (GLOBECOM 2021)](https://globecom2021.ieee-globecom.org/).
 
